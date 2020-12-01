@@ -47,9 +47,9 @@ hi Conceal guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CursorColumn guifg=NONE ctermfg=NONE guibg=#3a3d4d ctermbg=238 gui=NONE cterm=NONE
 hi CursorLine guifg=NONE ctermfg=NONE guibg=#3a3d4d ctermbg=238 gui=NONE cterm=NONE
 hi Directory guifg=#57c7ff ctermfg=81 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi DiffAdd guifg=#282a36 ctermfg=236 guibg=#5af78e ctermbg=84 gui=NONE cterm=NONE
-hi DiffChange guifg=#f3f99d ctermfg=229 guibg=NONE ctermbg=NONE gui=underline cterm=underline
-hi DiffDelete guifg=#282a36 ctermfg=236 guibg=#ff5c57 ctermbg=203 gui=NONE cterm=NONE
+hi DiffAdd guifg=#5af78e ctermfg=84 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi DiffChange guifg=#f3f99d ctermfg=229 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi DiffDelete guifg=#ff5c57 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi DiffText guifg=#282a36 ctermfg=236 guibg=#f3f99d ctermbg=229 gui=NONE cterm=NONE
 hi ErrorMsg guifg=#ff8380 ctermfg=210 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi VertSplit guifg=#181a1f ctermfg=234 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
